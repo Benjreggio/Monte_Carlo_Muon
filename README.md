@@ -26,7 +26,7 @@ piPlot(1000,plot=True)
 
 
     
-![png](Untitled_files/Untitled_3_1.png)
+![png](README_files/README_3_1.png)
     
 
 
@@ -41,7 +41,7 @@ CLT(100)
 
 
     
-![png](Untitled_files/Untitled_5_0.png)
+![png](README_files/README_5_0.png)
     
 
 
@@ -52,7 +52,7 @@ CLT(1000)
 
 
     
-![png](Untitled_files/Untitled_6_0.png)
+![png](README_files/README_6_0.png)
     
 
 
@@ -67,7 +67,7 @@ plotElectronDist()
 
 
     
-![png](Untitled_files/Untitled_8_0.png)
+![png](README_files/README_8_0.png)
     
 
 
@@ -78,7 +78,7 @@ data = MC(100,True)
 
 
     
-![png](Untitled_files/Untitled_9_0.png)
+![png](README_files/README_9_0.png)
     
 
 
@@ -89,6 +89,6 @@ go()
 
 
     
-![png](Untitled_files/Untitled_10_0.png)
+![png](README_files/README_10_0.png)
     
 
